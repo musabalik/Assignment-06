@@ -1,0 +1,18 @@
+.calculator {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+.display {
+    height: 80px;
+    background: #ffffff;
+    color: rgb(11, 4, 4);
+    font-size: 24px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
